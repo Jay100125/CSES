@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    printf("something else");
-    printf("something adventure");
+    printf("genshin impact");
+    printf("adventure rank 50");
     return 0;
 }
