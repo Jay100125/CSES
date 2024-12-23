@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    printf("hello world");
-    printf("testing");
+    printf("something else");
+    printf("something adventure");
     return 0;
 }
